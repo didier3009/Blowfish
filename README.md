@@ -4,5 +4,6 @@ Ciphering with Java blowfish API
 
 Java example to ensure confidentiality by ciphering and deciphering with Blowfish algorithm
 
-Enjoy!
+Enjoy !
+
 Dr. Didier Samfat
