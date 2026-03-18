@@ -1,9 +1,13 @@
 # Blowfish
 
-Ciphering with Java blowfish API
+Introduction to static software analysis with SonarQube Cloud
+
+Ciphering with Blowfish
 
 Java example to ensure confidentiality by ciphering and deciphering with Blowfish algorithm
 
-Enjoy !
+Students to use this file to configure their Sonarcloud.
 
-Dr. Didier Samfat
+
+Enjoy !
+Didier Samfat
